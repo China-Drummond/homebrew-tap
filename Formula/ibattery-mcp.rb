@@ -2,7 +2,7 @@ class IbatteryMcp < Formula
   desc "MCP server exposing Apple device battery status as AI-assistant tools"
   homepage "https://github.com/China-Drummond/ibattery-mcp"
   url "https://github.com/China-Drummond/ibattery-mcp/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "a03ffb8d7e406c21b60e6aa1eaedbf7f938f38bbd6700736570408728f6638ba"
+  sha256 "3e72d5a11d1b670931ac96fbeea9bdf970d17a0f3bc80161d77123e003c80f5a"
   license "MIT"
 
   depends_on "pkg-config" => :build
