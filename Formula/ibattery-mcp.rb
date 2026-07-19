@@ -6,7 +6,7 @@ class IbatteryMcp < Formula
   license "MIT"
 
   depends_on "pkg-config" => :build
-  depends_on xcode: ["15.0", :build]
+  depends_on xcode: ["16.3", :build]
   depends_on "libimobiledevice"
 
   def install
